@@ -17,7 +17,7 @@ export default function FirstPost() {
                     console.log(`script loaded correctly, window.FB has been populated`)
                     }
             />
-            <h1>First Post</h1>
+            <h1>First Post22222</h1>
             <h1 >
                 <Link href="/">Back to home</Link>
             </h1>
