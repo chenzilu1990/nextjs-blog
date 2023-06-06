@@ -8,7 +8,7 @@ export default function FirstPost() {
     return (
         <>
             <Head>
-                <title>First Post</title>
+                <title>First Post11111</title>
             </Head>
             <Script
                 src="https://connect.facebook.net/en_US/sdk.js"
